@@ -14,7 +14,4 @@
 
 # my name is HuanChong
 
-
-![5c7e0de426119ed169b9968a8bfcb0f](https://user-images.githubusercontent.com/27540320/161419724-de6af234-7167-4948-a9f6-3e9e62b2d4ec.jpg)
-![609c62757f4ecdeb59271e77f1e2bbf](https://user-images.githubusercontent.com/27540320/161419725-72e9115d-1403-43e5-a1e0-d0bd5cb3cb5f.jpg)
-![8722a730a6ba38e17bef8df29dbed8e](https://user-images.githubusercontent.com/27540320/161419727-e1c1366a-d799-4f01-90bc-46b785cf4ff2.jpg)
+![QQ截图20220403165056](https://user-images.githubusercontent.com/27540320/161419833-761b3a94-31be-434e-9e5e-2cae32d82633.png)
